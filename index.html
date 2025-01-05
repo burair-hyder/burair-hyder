@@ -6,49 +6,166 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="google-site-verification" content="YPymvGL4Xe9r0lz6I4PDUNJwu2-aKrDzgNkxtJTw4Oc" />
     <title>Burair Hyder - GitHub Profile</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
+
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
+            font-family: 'Poppins', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #B0E0E6, #ADD8E6); /* Soft gradient for background */
             color: #333;
-            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start; /* Start from the top */
+            min-height: 100%;
         }
-        h1, h2 {
-            color: #4CAF50;
+
+        .container {
+            max-width: 800px;
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            margin: 20px;
+            width: 100%;
         }
-        h3 {
-            color: #007bff;
+
+        h1 {
+            color: #003366; /* Deep blue for main heading */
+            font-size: 2.5rem;
+            margin-bottom: 20px;
         }
+
+        h2 {
+            color: #0073e6; /* Lighter blue for sub-headings */
+            font-size: 1.8rem;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
         p {
             font-size: 1.1em;
+            line-height: 1.8;
+            color: #555;
         }
+
         ul {
             list-style-type: none;
+            padding-left: 20px;
         }
+
         li {
-            margin-bottom: 10px;
+            margin-bottom: 15px;
         }
-        .container {
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-        }
+
         .emoji {
-            font-size: 1.5em;
+            font-size: 1.8em;
         }
+
         hr {
-            margin-top: 20px;
+            margin-top: 30px;
             border: 1px solid #ddd;
         }
-        /* Custom Link Styling */
+
         a {
-            color: #007bff;
+            color: #FF5733; /* Bright accent color for links */
             text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s ease;
         }
+
         a:hover {
+            color: #d44228; /* Darker shade on hover */
             text-decoration: underline;
+        }
+
+        .btn {
+            display: inline-block;
+            background-color: #0073e6; /* Blue button */
+            color: white;
+            padding: 12px 24px;
+            border-radius: 5px;
+            text-align: center;
+            font-weight: 500;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            margin-top: 20px;
+        }
+
+        .btn:hover {
+            background-color: #005bb5; /* Darker blue on hover */
+            transform: scale(1.05);
+        }
+
+        .highlight {
+            font-weight: bold;
+            color: #4CAF50; /* Green accent for important words */
+        }
+
+        .section-header {
+            font-size: 1.4rem;
+            font-weight: 500;
+            margin-top: 40px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+
+        .sub-header {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        /* Responsive Styling */
+        @media screen and (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            h2 {
+                font-size: 1.6rem;
+            }
+
+            p, ul {
+                font-size: 1rem;
+            }
+
+            .emoji {
+                font-size: 1.6em;
+            }
+
+            .container {
+                padding: 20px;
+            }
+        }
+
+        @media screen and (max-width: 480px) {
+            h1 {
+                font-size: 1.6rem;
+            }
+
+            h2 {
+                font-size: 1.4rem;
+            }
+
+            p, ul {
+                font-size: 0.9rem;
+            }
+
+            .emoji {
+                font-size: 1.4em;
+            }
+
+            .container {
+                padding: 15px;
+            }
+
+            .btn {
+                width: 100%;
+                padding: 12px;
+            }
         }
     </style>
 </head>
@@ -58,41 +175,33 @@
     <h1>Hey there! 👋</h1>
     <p>Welcome to my corner of GitHub!</p>
 
-    <p>I’m <strong>Burair Hyder</strong>, a first-year <strong>BSCS</strong> student at <em>FAST Karachi</em>, a proud A-Level survivor (got all A*s 😉), <br> and a full-time coder (well, part-time procrastinator too).<br> Armed with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>Python</strong>, and <strong>C</strong>, I’m on a mission to make the digital world a little cooler, one bug fix at a time.</p>
+    <p>I’m <span class="highlight">Burair Hyder</span>, a first-year <span class="highlight">BSCS</span> student at <em>FAST Karachi</em>, a proud A-Level survivor (got all A*s 😉), <br> and a full-time coder (well, part-time procrastinator too). Armed with <span class="highlight">HTML</span>, <span class="highlight">CSS</span>, <span class="highlight">JavaScript</span>, <span class="highlight">Python</span>, and <span class="highlight">C</span>, I’m on a mission to make the digital world a little cooler, one bug fix at a time.</p>
 
     <hr>
 
     <h2 class="emoji">🚀 What I Do</h2>
     <ul>
-        <li><em>Debugging</em>: First things first—I waste hours looking for missing semicolons. (Yes, they’re always in the last place I check.)</li>
-        <li><em>Web Development</em>: I create web pages so sleek, they might just slide off your screen.</li>
-        <li><em>Game Development</em>: Made a <strong>car collision game in C</strong>—don’t worry, it’s way less destructive than it sounds.</li>
-        <li><em>Virtual Classroom Wizardry</em>: Co-built a <strong>Google Classroom clone</strong>, proving that great minds don’t just think alike—they also code alike.</li>
-    </ul>
-
-    <hr>
-
-    <h2 class="emoji">🌟 Projects & Skills</h2>
-    <ul>
-        <li><em>Virtual Classroom</em>: Like Google Classroom, but with <em>extra love</em> (and maybe fewer server crashes).</li>
-        <li><em>Car Collision Game</em>: Think Fast & Furious, but in your terminal window.</li>
-        <li><em>Web Dev</em>: Making websites that load fast enough to impress your Wi-Fi.</li>
+        <li><strong>Debugging</strong>: First things first—I waste hours looking for missing semicolons. (Yes, they’re always in the last place I check.)</li>
+        <li><strong>Web Development</strong>: I create web pages so sleek, they might just slide off your screen.</li>
+        <li><strong>Game Development</strong>: Made a <span class="highlight">car collision game in C</span>—don’t worry, it’s way less destructive than it sounds.</li>
+        <li><strong>Virtual Classroom Wizardry</strong>: Co-built a <span class="highlight">Google Classroom clone</span>, proving that great minds don’t just think alike—they also code alike.</li>
     </ul>
 
     <hr>
 
     <h2 class="emoji">📚 Currently Exploring</h2>
     <ul>
-        <li><em>Data Structures & Algorithms</em>: Because sorting things alphabetically isn’t as easy as it looks.</li>
-        <li><em>Advanced Frameworks</em>: Diving into the tools that make developers’ lives easier (and lazier).</li>
-        <li><em>Life</em>: Still figuring out why my coffee gets cold while I debug code.</li>
+        <li><strong>Data Structures & Algorithms</strong>: Because sorting things alphabetically isn’t as easy as it looks.</li>
+        <li><strong>Advanced Frameworks</strong>: Diving into the tools that make developers’ lives easier (and lazier).</li>
+        <li><strong>Life</strong>: Still figuring out why my coffee gets cold while I debug code.</li>
     </ul>
 
     <hr>
 
     <h2 class="emoji">🤝 Let’s Be Friends!</h2>
-    <p>Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <br> Hit me up—let’s turn ideas into reality (or at least compile them without errors).</p>
-
+    <p>Got a fun project? Let’s collab! Got a bad joke? I’m here for it too.</p>
+    <p><a href="https://www.instagram.com/burair_hyder/profilecard/?igsh=MThucDg5Z28ya25vcQ==" class="btn" target="_blank">Hit me up!</a></p>
+    <p>Let’s turn ideas into reality (or at least compile them without errors).</p>
 </div>
 
 </body>
