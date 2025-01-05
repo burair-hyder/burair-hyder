@@ -20,13 +20,6 @@ I’m *Burair Hyder*, a first-year **BSCS** student at *FAST Karachi, a proud A-
 
 ---
 
-## 🌟 *Projects & Skills*  
-- *Virtual Classroom*: Like Google Classroom, but with *extra love (and maybe fewer server crashes).  
-- *Car Collision Game*: Think Fast & Furious, but in your terminal window.  
-- *Web Dev*: Making websites that load fast enough to impress your Wi-Fi.  
-
----
-
 ## 📚 *Currently Exploring*  
 - *Data Structures & Algorithms*: Because sorting things alphabetically isn’t as easy as it looks.  
 - *Advanced Frameworks*: Diving into the tools that make developers’ lives easier (and lazier).  
