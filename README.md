@@ -40,7 +40,7 @@ Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <Br>Hi
 ![](https://github-readme-stats.vercel.app/api?username=burair-hyder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 [![](https://visitcount.itsvg.in/api?id=burair-hyder&icon=0&color=0)](https://visitcount.itsvg.in)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-hyder&layout=compact&theme=radical)](https://github.com/burair-hyder/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-hyder&layout=compact&theme=radical)]
 
 ---
 
