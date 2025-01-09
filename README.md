@@ -39,11 +39,10 @@ Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <Br>Hi
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=burair-hyder&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=burair-hyder&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-hyder&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=burair-hyder&icon=0&color=0)](https://visitcount.itsvg.in)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-hyder&layout=compact&theme=radical)](https://github.com/burair-hyder/github-readme-stats)
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burair-hyder/burair-hyder/output/github-snake-dark.svg" />
