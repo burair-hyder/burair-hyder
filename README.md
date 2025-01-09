@@ -33,6 +33,7 @@ Armed with **HTML**, **CSS**, **JavaScript**, **Python**, and **C**, I’m on a 
 Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <Br>Hit me up—let’s turn ideas into reality (or at least compile them without errors).
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-hyder&layout=compact&theme=radical)](https://github.com/burair-hyder/github-readme-stats)
 
-(https://github-readme-stats.vercel.app/api?username=burair-hyder)](https://github.com/anuraghazra/github-readme-stats)
+
 ****
