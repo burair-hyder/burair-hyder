@@ -35,5 +35,10 @@ Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <Br>Hi
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burair-hyder&layout=compact&theme=radical)](https://github.com/burair-hyder/github-readme-stats)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/burair-hyder/burair-hyder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/burair-hyder/burair-hyder/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/burair-hyder/burair-hyder/output/github-snake.svg" />
+</picture>
 
 ****
