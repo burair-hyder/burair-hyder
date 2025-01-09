@@ -34,5 +34,5 @@ Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <Br>Hi
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=burair-hyder)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=burair-hyder)](https://github.com/anuraghazra/github-readme-stats)
 ****
