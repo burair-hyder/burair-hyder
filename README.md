@@ -33,4 +33,6 @@ Armed with **HTML**, **CSS**, **JavaScript**, **Python**, and **C**, I’m on a 
 Got a fun project? Let’s collab! Got a bad joke? I’m here for it too. <Br>Hit me up—let’s turn ideas into reality (or at least compile them without errors).
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ****
