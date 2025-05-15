@@ -8,9 +8,9 @@
 
 Welcome to my corner of GitHub!  
 
-I’m *Burair Hyder*, a first-year **BSCS** student at *FAST Karachi,a proud A-Level survivor (got all A`*`s 😉), <br>
+I’m *Burair Hyder*, a first-year **BSCS** student at FAST Karachi,a proud A-Level survivor (got all A`*`s 😉), <br>
 and a full-time coder (well, part-time procrastinator too).<br>
-Armed with **HTML**, **CSS**, **JavaScript**, **Python**, and **C**, I’m on a mission to make the digital world a little cooler, one bug fix at a time.  
+Armed with **HTML**, **CSS**, **JavaScript**, **Python**, and **C**,**C++**, I’m on a mission to make the digital world a little cooler, one bug fix at a time.  
 
 ---
 
