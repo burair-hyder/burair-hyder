@@ -14,11 +14,19 @@ Armed with **HTML**, **CSS**, **JavaScript**, **Python**, and **C**,**C++**, I�
 
 ---
 
-## 🚀 *What I Do*  
-- *Debugging*: `First things first`- I waste hours looking for missing semicolons.<br> (Yes, they’re always in the last place I check.)  
-- *Web Development*: I create web pages so sleek, they might just slide off your screen.  
-- *Game Development*: Made a **car collision game in C**—don’t worry, it’s way less destructive than it sounds.  
-- *Virtual Classroom Wizardry*: Co-built a **Google Classroom clone**, <br> proving that great minds don’t *just think alike—they also code alike.  
+## 🚀 *What I Do*
+
+- **Debugging**: `First things first`—I waste hours looking for missing semicolons.  
+  (Yes, they’re always in the last place I check.)
+
+- **Web Development**: I create web pages so sleek, they might just slide off your screen.
+
+- **Game Development**: Made a **car collision game in C**—don’t worry, it’s way less destructive than it sounds.
+
+- **Virtual Classroom Wizardry**: Co-built a **Google Classroom clone**,  
+  proving that great minds don’t *just think alike—they also code alike.*
+
+- **OOP Engineering**: Built an **Airport Management System in C++**—no turbulence, just classes, objects, and perfectly handled exceptions.
 
 ---
 
